@@ -1,0 +1,10 @@
+License.txt
+README.md
+setup.py
+django_jquery_datatables/__init__.py
+django_jquery_datatables/utils.py
+django_jquery_datatables.egg-info/PKG-INFO
+django_jquery_datatables.egg-info/SOURCES.txt
+django_jquery_datatables.egg-info/dependency_links.txt
+django_jquery_datatables.egg-info/requires.txt
+django_jquery_datatables.egg-info/top_level.txt
